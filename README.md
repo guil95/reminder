@@ -26,7 +26,7 @@ You are not welcome here :D
 
 ## Flags 
 
-The flag `-timer` is about the time that alert will happens, for example, `10m` you alert will happen each 10 minutes.
+The flag `-timer` is about the time that alert will happens, for example, `10m` yor alert will happen each 10 minutes.
 
 The flag `-text` is about the text that will show in your alert.
 
