@@ -35,4 +35,5 @@ Default values to `-timer` and `-text` is `10m` and `Reminder time` respectively
 ## Alert sample
 
 When you executed that program you will receive an alert like that
+
 ![alert](.github/images/alert.png)
