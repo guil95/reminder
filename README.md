@@ -17,7 +17,7 @@ Or can you build this project and add on your bin path like that:
 ```shell
 $ go build -o reminder
 $ sudo cp reminder /usr/local/bin/reminder
-$ reminder -timer=10m -text="Water time!!" &
+$ nohup reminder -timer=10m -text="Water time!!" &
 ```
 
 **Windows users**
